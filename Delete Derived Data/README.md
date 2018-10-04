@@ -1,4 +1,4 @@
-# User for
+# Used for
 When things don't work as supposed in Xcode, this may be your life saver.
 
 # How to Use
